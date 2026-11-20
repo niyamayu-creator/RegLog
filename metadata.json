@@ -1,0 +1,6 @@
+{
+  "name": "LogiStudio Analytics",
+  "description": "Plataforma visual End-to-End de Regresión Logística, selección de variables, Odds Ratios, evaluación predictiva e informe ejecutivo sin programación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
